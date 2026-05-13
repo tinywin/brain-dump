@@ -4,8 +4,6 @@ Esvazia a cabeça. Depois organiza.
 
 Um app para quem tem pensamentos demais ao mesmo tempo — joga tudo fora de uma vez, depois categoriza na calma (ou deixa a IA fazer isso).
 
-![brain dump preview](https://raw.githubusercontent.com/placeholder/brain-dump/main/preview.png)
-
 ## O que faz
 
 - **Dump livre** — escreve sem pensar, sem estrutura, só joga pra fora
